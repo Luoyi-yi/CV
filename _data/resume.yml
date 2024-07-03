@@ -48,8 +48,7 @@ main: #简历主要内容，
     - C
     - C++
   - title: 专业技能
-    summary: 计算机二级证书；蓝桥杯 c/c++程序设计省三；熟悉
-Oracle/MySql/Sql server 数据库 
+    summary: 计算机二级证书；蓝桥杯 c/c++程序设计省三；熟悉Oracle/MySql/Sql server 数据库 
 
 - type: experience
   name: 经验
