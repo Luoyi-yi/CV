@@ -30,14 +30,14 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
-    duration: "2011年x月 - 2015年"
-    sub: 地点或学历
-    detail: 专业或者简短说明
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
+  - title: 武汉工程科技学院
+    duration: "2019年9月 - 2023年7月"
+    sub: 学士
+    detail: 软件工程
+  - title: 上海理工大学
+    duration: 2024年9月-至今
+    sub: 硕士
+    detail: 计算机技术
 
 - type: skills
   # name: "技能"
