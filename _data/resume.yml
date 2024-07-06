@@ -82,7 +82,7 @@ main: #简历主要内容，
   #   summary: Projects' introduction or summary
   #   detail:
   #     md: _data/demo.md
-    sub: Creator and maintainer.
+    # sub: Creator and maintainer.
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
