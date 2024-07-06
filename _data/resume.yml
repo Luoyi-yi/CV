@@ -50,38 +50,41 @@ main: #简历主要内容，
   - title: 专业技能
     summary: 计算机二级证书；蓝桥杯 c/c++程序设计省三；熟悉Oracle/MySql/Sql server 数据库 
 
-- type: experience
-  name: 经验
-  content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
-    tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
-    # open: open
-    #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
-    tags: 
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# - type: experience
+#   name: 经验
+#   content:
+#   - title: 职位
+#     sub: 某某公司
+#     duration: "xxxx年xx月 - yyyy年yy月"
+#     tags:
+#     - 标签
+#     summary: 职务或者工作总结(自动折叠)
+#     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+#     # open: open
+#     #可以设置open默认展开
+#   - title: Job Title
+#     sub: Your 2nd, Inc.  
+#     duration: Apr 2013 - Mar 2016
+#     tags: 
+#     - tagname
+#     summary: Summary your job or work. (Collapse)
+#     detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - type: projects
   name: Projects
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+  - title: 网络商城 
+    duration: 2022年3月 - 2022年6月
+    detail: 1、	负责数据存储系统、分布式计算系统、挖掘算法等设计、研发以及维护、优化工作。 
+2、	协助团队进行 Java 的应用设计及开发规划，协助团队撰写设计开发及实现文档、流程。 
+3、	协助团队处理开发过程中技术问题，整理和提交技术文档。 
+
+  #   sub: 维护者
+  # - title: Project Name
+  #   summary: Projects' introduction or summary
+  #   detail:
+  #     md: _data/demo.md
+  #   sub: Creator and maintainer.
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
